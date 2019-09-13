@@ -2,7 +2,7 @@
   "name": "my",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rashed-08.github.io/monstar-rolodex",
+  "homepage": "https://rashed-08.github.io/monstar-rolodex/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
